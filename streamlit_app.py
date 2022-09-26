@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.title('Chaari Sarika')
+streamlit.title('french Rachana')
