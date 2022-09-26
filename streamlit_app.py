@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.title('Swamy Maneesha')
+streamlit.title('Chaari Sarika')
